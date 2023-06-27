@@ -307,3 +307,9 @@ target/surefire-reports/com.github.hasys.GreetingsTest.txt
 target/surefire-reports/TEST-com.github.hasys.GreetingsTest.xml
 target/test-classes/application.properties
 target/test-classes/com/github/hasys/GreetingsTest.class
+target/classes/com/klym/kbpm/model/BpmAnswer.class
+target/classes/com/klym/kbpm/service/ProcessInit.class
+target/classes/org/kie/kogito/handlers/ProcessInit_init_1_Handler.class
+target/generated-sources/kogito/org/kie/kogito/handlers/ProcessInit_init_1_Handler.java
+target/surefire-reports/2023-06-27T09-22-19_932.dumpstream
+.vscode/settings.json
